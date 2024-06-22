@@ -1,2 +1,2 @@
-import MAXTAN
-MAXTAN.__APPROVAL__()
+import PR
+
